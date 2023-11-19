@@ -7,7 +7,7 @@
     Explore a collection of projects that showcase my skills, creativity, and commitment to delivering top-notch mobile
     experiences.</p>
 
-  <h2>What You'll Find:</h2>
+  <h3>What You'll Find:</h3>
   <ul>
     <li><strong>Flutter Showcases:</strong> Dive into Flutter projects that demonstrate my proficiency in building
       cross-platform, beautiful apps with a single codebase.</li>
@@ -17,21 +17,21 @@
       seamless integrations with cloud services (Firebase).</li>
   </ul>
 
-  <h2>Technologies Used:</h2>
+  <h3>Technologies Used:</h3>
   <p>Flutter | Android | iOS | Kotlin | Firebase </p>
 
-  <h2>How to Get Started:</h2>
+  <h3>How to Get Started:</h3>
   <ol>
     <li>Clone the repository to your local machine.</li>
     <li>Explore individual project folders for in-depth documentation and setup instructions.</li>
     <li>Feel free to open issues, submit pull requests, or connect with me for collaboration opportunities.</li>
   </ol>
 
-  <h2>Let's Collaborate:</h2>
+  <h3>Let's Collaborate:</h3>
   <p>I'm always excited to collaborate with fellow developers! Whether you're interested in contributing to existing
     projects or have ideas for new ones, let's join forces and create something amazing together.</p>
 
-  <h2>Connect with Me:</h2>
+  <h3>Connect with Me:</h3>
   <p>Let's connect on <a href="https://www.linkedin.com/in/saadakram200/" target="_blank">LinkedIn</a> to stay updated on the
     latest developments, discuss potential collaborations, and share insights into the ever-evolving world of mobile app
     development.</p>
