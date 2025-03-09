@@ -18,7 +18,7 @@
   </ul>
 
   <h3>Technologies Used:</h3>
-  <p>Flutter | Android | iOS | Firebase </p>
+  <p>Flutter | Android | iOS | Firebase | Rest APIs</p>
 
   <h3>How to Get Started:</h3>
   <ol>
